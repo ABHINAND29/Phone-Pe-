@@ -110,6 +110,7 @@ pip install -r requirements.txt
 streamlit run app.py
 
 📁 Project Structure
+
 project/
 │
 ├── data/
@@ -118,6 +119,8 @@ project/
 ├── app.py
 ├── requirements.txt
 └── README.md
+
+
 🙌 Author
 
 Abhinand
