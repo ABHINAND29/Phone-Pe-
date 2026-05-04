@@ -41,18 +41,27 @@ Loaded raw data into SQL database
 🗄️ SQL Database Design
 
 🔹 Aggregated Tables
+
 Aggregated_user – User-related aggregated data
+
 Aggregated_transaction – Transaction summaries
+
 Aggregated_insurance – Insurance data
 
 🔹 Map Tables
+
 Map_user – User mapping data
+
 Map_map – Transaction values by state & district
+
 Map_insurance – Insurance mapping
 
 🔹 Top Tables
+
 Top_user – Top users
+
 Top_map – Top states, districts, pincodes
+
 Top_insurance – Top insurance categories
 
 📊 SQL Analysis
